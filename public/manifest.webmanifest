@@ -1,0 +1,21 @@
+{
+    "name": "todolist-v1",
+    "short_name" : "TODO",
+    "version": "1.0.0",
+    "main": "app.js",
+    "start_url" : "/list.ejs",
+    "display" : "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "description": "This is a TO Do List",
+    "theme_color": "#fff",
+    "icons": [
+      {
+        "src": "public/css/w.png",
+        "type": "image/png",
+        "sizes": "144x144"
+        
+      }
+    ]
+  }
+  
